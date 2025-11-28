@@ -11,17 +11,10 @@
 **Accede a la aplicación directamente:**
 
 ➡️ **[PROMPT CREATOR EN VIVO](https://promptcreate.netlify.app/)** ⬅️
+![Screenshot_20251128-082208_Chrome](https://github.com/user-attachments/assets/a36339c1-7f4d-4349-9d76-01a7566909e6)
+![Screenshot_20251128-082216_Chrome](https://github.com/user-attachments/assets/70fc3e98-11d8-48a1-b410-95c7223b2a80)
 
 ---
-
-## 🖼️ Vistazo Rápido a la Aplicación
-
-Una vista de la interfaz de usuario en dispositivos móviles.
-
-| Pantalla Principal (Selección de Categoría) | Modal de Optimización de Prompt |
-| :---: | :---: |
-| ![Captura de la pantalla principal de Prompt Creator, mostrando las cuatro categorías de prompts: Imagen, Video, Texto y Consejo Desarrollador.](https://images.google.com/?hl=es-419) | ![Captura del modal 'Mejorar Prompt de Texto', donde el usuario introduce el prompt inicial y recibe el resultado optimizado.](https://images.google.com/?hl=es-419) |
-| *La vista principal permite al usuario elegir el tipo de IA para la cual optimizará su prompt.* | *El modal guía al usuario para refinar su instrucción con ayuda de la IA.* |
 
 ---
 
